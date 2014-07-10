@@ -3,8 +3,7 @@ designs
 
 design portfolio
 ### AKirja
-virtual range-shooting report
-Puolustusvoimat
+virtual range-shooting report for Finnish Defence Forces
 ![akirja](https://raw.githubusercontent.com/theikkila/designs/master/akirja1.png)
 ![akirja](https://raw.githubusercontent.com/theikkila/designs/master/akirja2.png)
 ![akirja](https://raw.githubusercontent.com/theikkila/designs/master/akirja3.png)
